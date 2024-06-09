@@ -1,5 +1,7 @@
 # TensorFlow C++ Examples
 
+READMEを変更しました。
+
 This directory contains examples of the TensorFlow C++ API (and some redirects).
 If that's not what you're looking for here are some links:
 
